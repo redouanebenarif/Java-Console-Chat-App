@@ -4,11 +4,3 @@ body {display:table-cell; text-align:center; vertical-align:middle; padding-bott
 table {
   margin: 1rem;
 }
-a {
-  text-decoration: none;
-  /* color: black; */
-}
-a:hover {
-  text-decoration: none;
-  /* color: whitesmoke; */
-}
