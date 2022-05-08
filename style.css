@@ -1,14 +1,14 @@
 html, body {height:100%;}
 html {display:table; width:100%;}
-body {display:table-cell; text-align:center; vertical-align:middle;}
+body {display:table-cell; text-align:center; vertical-align:middle; padding-bottom: 2rem; padding-top: 2rem;}
 table {
   margin: 1rem;
 }
 a {
   text-decoration: none;
-  color: black;
+  /* color: black; */
 }
 a:hover {
   text-decoration: none;
-  color: whitesmoke;
+  /* color: whitesmoke; */
 }
